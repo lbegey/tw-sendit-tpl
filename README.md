@@ -1,4 +1,4 @@
-<img src="https://lbegey.fr/imgs/sendit.png"><br>
+<img src="https://lbegey.fr/sendit.png"><br>
 
 Simple and modern landing page to quickly propel your SaaS.<br>
 
